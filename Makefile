@@ -7,6 +7,9 @@ all: testify $(TESTLIBS)
 
 testify: testify.cpp stopwatch.cpp stopwatch.h
 
+run: testify $(TESTLIBS)
+	./run_tests.sh >> RESULT_DB
+
 clean:
 	rm -f $(TESTLIBS) testify dump.vcd
 
