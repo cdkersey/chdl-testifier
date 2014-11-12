@@ -1,7 +1,8 @@
 LDLIBS ?= -lchdl -ldl
 CXXFLAGS ?= -std=c++11
 
-TESTLIBS = sample.so harmonica2.so score.so life.so lavabug.so lfsr.so
+TESTLIBS = sample.so harmonica2.so score.so life.so lavabug.so lfsr.so \
+           lavabug-fp.so
 
 all: testify $(TESTLIBS)
 
