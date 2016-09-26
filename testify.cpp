@@ -68,8 +68,13 @@ int main(int argc, char **argv) {
 
   stopwatch_start();
 
+  #if 1
   ofstream vcd("dump.vcd");
-  run(vcd, 1000);  
+  run/*_trans*/(vcd, 1000);
+  #else
+  ofstream vl("dump.v");
+  print_verilog("chdl_design", vl);
+  #endif
 
   double ms_run(stopwatch_stop());
 
