@@ -2092,7 +2092,7 @@ word_t InfoRom(bvec<4> a, unsigned core_id) {
   #endif
 
   #ifdef BTB
-  ovec != 0x10;
+  ovec |= 0x10;
   #endif
 
   #ifdef MAP_ROM_COPY
