@@ -1,4 +1,4 @@
-LDLIBS ?= -lchdl -ldl
+LDLIBS ?= -pthread -lchdl -ldl
 CXXFLAGS ?= -std=c++11 -O3
 
 TESTLIBS = sample.so harmonica2.so score.so life.so lavabug.so lfsr.so \

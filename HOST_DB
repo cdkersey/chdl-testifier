@@ -4,3 +4,4 @@ kl2305-11, Intel(R) Core(TM) i5 CPU 750 @ 2.67GHz, 7996, Linux kl2305-11 3.2.0-4
 pushrod, Intel(R) Xeon(R) CPU E5606 @ 2.13GHz, 72637, Linux pushrod 3.2.0-4-amd64 #1 SMP Debian 3.2.32-1 x86_64 GNU/Linux
 elmyra, Intel(R) Celeron(R) CPU G530 @ 2.40GHz, 7958, Linux elmyra 3.14-2-amd64 #1 SMP Debian 3.14.15-2 (2014-08-09) x86_64 GNU/Linux
 pbubs, Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz, 15985, Linux pbubs 4.7.0-1-amd64 #1 SMP Debian 4.7.8-1 (2016-10-19) x86_64 GNU/Linux
+shelby, ARMv7 Processor rev 4 (v7l), 925, Linux shelby 4.4.50-v7+ #970 SMP Mon Feb 20 19:18:29 GMT 2017 armv7l GNU/Linux
