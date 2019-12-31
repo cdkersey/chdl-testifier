@@ -6,3 +6,4 @@ elmyra, Intel(R) Celeron(R) CPU G530 @ 2.40GHz, 7958, Linux elmyra 3.14-2-amd64 
 pbubs, Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz, 15985, Linux pbubs 4.7.0-1-amd64 #1 SMP Debian 4.7.8-1 (2016-10-19) x86_64 GNU/Linux
 shelby, ARMv7 Processor rev 4 (v7l), 925, Linux shelby 4.4.50-v7+ #970 SMP Mon Feb 20 19:18:29 GMT 2017 armv7l GNU/Linux
 gogo, AMD Ryzen 5 3400G with Radeon Vega Graphics, 14008, Linux gogo 5.3.0-3-amd64 #1 SMP Debian 5.3.15-1 (2019-12-07) x86_64 GNU/Linux
+jake, Intel(R) Celeron(R) CPU J3455 @ 1.50GHz, 15679, Linux jake 5.3.0-3-amd64 #1 SMP Debian 5.3.15-1 (2019-12-07) x86_64 GNU/Linux
